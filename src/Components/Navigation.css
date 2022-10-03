@@ -1,0 +1,23 @@
+.mainNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 30px;
+}
+
+#logo{
+    width: 3%;
+    height: 20%;
+}
+
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    transition: 0.5s;
+}
+
+a:hover{
+    color: burlywood;
+    text-decoration: underline;
+}
